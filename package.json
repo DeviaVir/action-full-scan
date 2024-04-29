@@ -23,7 +23,7 @@
   "dependencies": {
     "@actions/core": "^1.10.0",
     "@actions/exec": "^1.1.1",
-    "@deviavir/actions-common-scans": "^0.2.1",
+    "@deviavir/actions-common-scans": "^0.2.2",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
